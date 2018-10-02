@@ -1,1 +1,1 @@
-module github.com/calvinlee1/golangTestModulesD/v2
+module github.com/calvinlee1/golangTestModulesD/v3
